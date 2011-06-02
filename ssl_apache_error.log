@@ -1,0 +1,6 @@
+[Thu Jun 02 06:46:12 2011] [info] Loading certificate & private key of SSL-aware server
+[Thu Jun 02 06:46:12 2011] [info] Init: Requesting pass phrase via builtin terminal dialog
+[Thu Jun 02 06:46:15 2011] [info] Configuring server for SSL protocol
+[Thu Jun 02 06:46:15 2011] [info] Loading certificate & private key of SSL-aware server
+[Thu Jun 02 06:46:15 2011] [info] mesecure.banka.si:443 reusing existing RSA private key on restart
+[Thu Jun 02 06:46:15 2011] [info] Configuring server for SSL protocol
